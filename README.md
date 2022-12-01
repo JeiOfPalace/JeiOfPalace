@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @JeiOfPalace
-- 👀 I’m interested in UX/UI Design and Game Design
-- 🌱 I’m currently learning UX and Game Design
-- 💞️ I’m looking to collaborate on a indie game development or website / app
-- 📫 How to reach me: jdepalau@gmail.com meanwhile I create my portfolio
-
-<!---
-JeiOfPalace/JeiOfPalace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🙋‍♂️ Hi, I’m Joel de Palau! A multimedia engineer specializing in UX/UI Design based in Banyoles (Spain)
+- 🚩 I'm looking forward to get my first professional challange as a Junior Game, Web or App UX/UI Designer... or related!
+- 🌱 I feel like sharing my latest design projects and connect with you 
+- 👋 Feel free to say hello via joeldepalau.design@gmail.com while I create my professional portfolio!
